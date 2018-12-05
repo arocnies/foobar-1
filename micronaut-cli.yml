@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: foobar
+---
+testFramework: spock
+sourceLanguage: groovy
